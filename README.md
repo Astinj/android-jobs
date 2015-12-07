@@ -63,6 +63,7 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期权、无限前景 | [dingding@growingio.com](mailto:dingding@growingio.com "有效期至 2015-12-31")
 鲜老虎 | [Android 开发](./北京--JD/鲜老虎 Android.md) | 高薪、期权、靠谱的伙伴跟老大 | [zhuohong@xianlaohu.com](mailto:zhuohong@xianlaohu.com "有效期至 2015-12-31")
 阿里神马 | [Android 开发](./北京--JD/阿里神马事业部 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
@@ -91,6 +92,7 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 筹道股权 | [Android 开发](./上海--JD/筹道股权 Android.md) | 扁平管理、弹性工作、福利好 | [niedh@choudao.com](mailto:niedh@choudao.com "有效期至 2015-12-31")
 微鲸科技 | [Android/iOS 开发](./上海--JD/微鲸科技 Android.md) | 互联网电视 高薪期权 | [zhang.yang@whaley.cn](mailto:zhang.yang@whaley.cn "有效期至 2016-05-31") 
 Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，15-30k，大量股权激励 |[j.yin@glowing.com](mailto:j.yin@glowing.com "有效期至 2016-12-31") 
+蔚来汽车 | [Android/ 开发](./上海--JD/蔚来汽车 Android.md) | 互联网汽车 高新期权 | [qiang.wang@nextev.com](mailto:qiang.wang@nextev.com "有效期至 2016-05-31") 
 
 ####Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
